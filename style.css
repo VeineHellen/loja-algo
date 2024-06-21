@@ -9,6 +9,6 @@
     --cor-da-letra: #ffd000;
 }
 
-body{
+body{/*seletor body*/
     background-color:var(--cor-de-fundo);
 }
